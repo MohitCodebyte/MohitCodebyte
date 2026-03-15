@@ -1,25 +1,25 @@
 <p align="center">
-<img src="YOUR_GIF_LINK" width="100%" />
+<img src="YOUR_GIF_LINK_HERE" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohit Kushwah</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;SQL+%7C+Power+BI+%7C+Machine+Learning;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;SQL+PowerBI+ML;Open+Source+Learner" />
 </p>
 
 ---
 
-# 🚀 About Me
-🎓 B.Tech Student (RGPV University)  
+## 🚀 About Me
+🎓 B.Tech Student – RGPV University  
 📊 Passionate about Data Science & Analytics  
-🧠 Skilled in Python, SQL, Excel & Power BI  
+🧠 Skilled in Python, SQL, Excel, Power BI  
 📈 Love Data Cleaning & Visualization  
 🎯 Goal → Become Professional Data Scientist  
 
 ---
 
-# 🧑‍💻 Tech Stack
+## 🧑‍💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,cpp,c,git,github,vscode" />
@@ -36,7 +36,7 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MohitCodebyte&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -45,13 +45,13 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 [![Mohit graph](https://github-readme-activity-graph.vercel.app/graph?username=MohitCodebyte&theme=tokyo-night)](https://github.com/MohitCodebyte)
 
 ---
 
-# 🐍 Snake Contribution Animation
+## 🐍 Snake Contribution Animation
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -59,24 +59,39 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MohitCodebyte&theme=radical&no-frame=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MohitCodebyte&theme=onedark&no-frame=true&margin-w=8"/>
 </p>
 
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
-⭐ Python Data Analysis  
-⭐ SQL Insights Project  
-⭐ Power BI Dashboard  
-⭐ Machine Learning Basics  
+<p align="center">
+
+<a href="https://github.com/MohitCodebyte/Python-Data-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitCodebyte&repo=Python-Data-Analysis&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/MohitCodebyte/SQL-Insights">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitCodebyte&repo=SQL-Insights&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/MohitCodebyte/PowerBI-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitCodebyte&repo=PowerBI-Dashboard&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/MohitCodebyte/Machine-Learning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitCodebyte&repo=Machine-Learning&theme=tokyonight"/>
+</a>
+
+</p>
 
 ---
 
-# 😂 Coding Memes
+## 😂 Coding Memes
 
 <p align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
@@ -85,13 +100,13 @@
 
 ---
 
-# ✍️ Quote
+## ✍️ Quote
 
 > “Without data, you're just another person with an opinion.”
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohit-kushwah-3a8802383">
@@ -109,7 +124,7 @@
 
 ---
 
-# 👀 Profile Visitors
+## 👀 Profile Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MohitCodebyte&color=brightgreen&style=for-the-badge"/>
