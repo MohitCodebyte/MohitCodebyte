@@ -67,9 +67,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitCodebyte&repo=IPL-Data-Analysis&theme=tokyonight"/>
+<img src="https://github.com/MohitCodebyte/MohitCodebyte/blob/main/IPL.png"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitCodebyte&repo=techno-products-sales-2024-25&theme=tokyonight"/>
+<img src="https://github.com/MohitCodebyte/MohitCodebyte/blob/main/Techno.png"/>
 
 <img src="https://github.com/MohitCodebyte/MohitCodebyte/blob/main/image.png/">
 
