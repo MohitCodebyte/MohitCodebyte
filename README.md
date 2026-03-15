@@ -25,17 +25,25 @@
 
 ---
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,cpp,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql,cpp,c,git,github,vscode,anaconda,linux,windows,jupyter,pycharm" />
+
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Statistics-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge"/>
+
 </p>
 
 ---
