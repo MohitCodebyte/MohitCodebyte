@@ -79,7 +79,7 @@
 
 <img src="https://github.com/MohitCodebyte/MohitCodebyte/blob/main/Techno.png"/>
 
-<img src="https://github.com/MohitCodebyte/MohitCodebyte/blob/main/image.png/">
+<img src="https://github.com/MohitCodebyte/MohitCodebyte/blob/main/Screenshot%202026-03-15%20115300.png">
 
 </p>
 
