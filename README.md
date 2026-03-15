@@ -1,13 +1,18 @@
 <p align="center">
-<img src=""C:\Users\HP\Downloads\Firefly_GeminiFlash_Create a professional GitHub profile banner using my uploaded photo.__Keep my face 10 395023.png"" width="100%"/>
+<img src="https://github.com/MohitCodebyte/MohitCodebyte/blob/main/Firefly_GeminiFlash_Hyper%20realistic%20cinematic%20developer%20portrait%20banner._Cyberpunk%20coding%20lab%20environment%20395023.png" width="100%"/>
 </p>
 
-<h1 align="center">MOHIT KUSHWAH</h1>
-<h3 align="center">Aspiring Data Scientist & Data Analyst</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;SQL+%7C+Power+BI+%7C+Machine+Learning;Open+Source+Learner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f2027,100:2c5364&height=250&section=header&text=MOHIT%20KUSHWAH&fontSize=60&fontColor=00FFFF&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Python+Developer;SQL+PowerBI+Machine+Learning"/>
+
 </p>
+
+</div>
+</div>
 
 ---
 
