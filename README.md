@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://github.com/MohitCodebyte/MohitCodebyte/blob/main/Firefly_GeminiFlash_Hyper%20realistic%20cinematic%20developer%20portrait%20banner._Cyberpunk%20coding%20lab%20environment%20395023.png" width="100%"/>
-</p>
 
 
 <p align="center">
